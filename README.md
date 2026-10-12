@@ -14,34 +14,30 @@
 OOP Calculator using processing for graphics and java for computer programming
 ## Current Status
 Working:
-- [A feature you have tested]
-- [Another feature you have tested]
+- [almost every button will do what its supposed to]
+
 
 Still in progress:
-- [A requirement you are finishing]
-
+- [the buttons will not respond with the keyboard]
+- [the ? and the plus minus will not respond to anything]
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
+Processing version: [4.0.1]
 
-[After the project files are uploaded, identify the
-project folder and main .pde file to open and run.]
+[the main folder is the calculator]
 
 ## Controls
 Mouse:
-[Explain how to use the buttons.]
+[click with mouse, touchpad or ,touch screen]
 
 Keyboard:
-[List keys that currently work and what they do.
-Identify planned controls as not yet implemented.]
+[1, 2, 3, 4, 5, 6, 7, 8, 9, C, all work]
 
 ## Project Files
-[Identify the main sketch and other tabs or assets
-you will upload.]
+[there is a main tab for the calculator and there is a sub tab for the buttons to make shure the buttons all work]
 
 ## Testing
-[Record one test: actions, expected result,
-and actual result.]
+[multiplying 1 and 2 equals two and not 12.]
 
 ## Next Step
-[Name the specific behavior you will build or fix next.]
+[the key board controls.]
